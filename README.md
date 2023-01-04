@@ -6,12 +6,14 @@
 #### Project Overview
 In this challenge, refractor VBA code to determine if stocks are worth investing in.
 Deliverables:
-  1. Refractor VBA code and measure performance
+  1. Refractor VBA code and measure performance- Workbook and folder including PNGs pf Pop ups with run time
   2. Written Analysis (README)
 
 
 
 ### Results
+Using VBA knowledge and proper use of for loops to create the worksheet to produce the results in question
+  Images
 ![2017 Results](https://static.bc-edx.com/data/do-v2/m2/img/data-M2-Challenge-02-2017-stock-analysis.png)
 ![2018 Results](https://static.bc-edx.com/data/do-v2/m2/img/data-M2-Challenge-02-2018-stock-analysis.png)
 
