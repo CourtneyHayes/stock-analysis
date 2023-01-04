@@ -13,7 +13,7 @@ Deliverables:
 
 ### Results
 Using VBA knowledge and proper use of for loops to create the worksheet to produce the results in question
-  Images
+ ##### Images
 ![2017 Results](https://static.bc-edx.com/data/do-v2/m2/img/data-M2-Challenge-02-2017-stock-analysis.png)
 ![2018 Results](https://static.bc-edx.com/data/do-v2/m2/img/data-M2-Challenge-02-2018-stock-analysis.png)
 
